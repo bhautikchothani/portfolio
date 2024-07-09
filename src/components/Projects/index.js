@@ -12,7 +12,7 @@ const Projects = ({openModal,setOpenModal}) => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc>
-          I have worked on a wide range of projects. Including java and full
+          I have worked on a wide range of projects. Including python and full
           Stack web apps && Node js. Having a few projects in backend also. Here
           are some of my projects.
         </Desc>
@@ -40,34 +40,20 @@ const Projects = ({openModal,setOpenModal}) => {
               WEB APP'S
             </ToggleButton>
           )}
-          <Divider />
-          {toggle === "node js" ? (
-            <ToggleButton
-              active
-              value="node js"
-              onClick={() => setToggle("node js")}
-            >
-              NODE JS
-            </ToggleButton>
-          ) : (
-            <ToggleButton value="node js" onClick={() => setToggle("node js")}>
-              NODE JS
-            </ToggleButton>
-          )}
           
           <Divider />
-          {toggle === "java" ? (
+          {toggle === "python" ? (
             <ToggleButton
               active
-              value="java"
-              onClick={() => setToggle("java")}
+              value="python"
+              onClick={() => setToggle("python")}
             >
            
-           Java
+           python
             </ToggleButton>
           ) : (
-            <ToggleButton value="java" onClick={() => setToggle("java")}>
-              Java
+            <ToggleButton value="python" onClick={() => setToggle("python")}>
+              python
             </ToggleButton>
           )}
         </ToggleButtonGroup>
