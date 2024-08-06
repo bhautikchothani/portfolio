@@ -1,7 +1,6 @@
 export const Bio = {
   name: "Bhautik Chothani",
   roles: [
-    "Full Stack Developer",
     "python Web Developer",
     "DataBase Manager",
   ],
@@ -9,7 +8,7 @@ export const Bio = {
     "I am a dynamic full-stack web developer based in Ahmedabad, Gujarat. Currently, I mentor college graduates, empowering them with skills in MySql, Flask, FastAPI, and python.I possess expertise in python technologie like RESTful Web Services and FASTAPI",
   github: "https://github.com/bhautikchothani",
   resume:
-    "https://drive.google.com/file/d/1DrOpbBJQ_TKhA7lEXcofWLdi4uUQbqBm/view?usp=drive_link",
+    "https://drive.google.com/file/d/1KH0FU2p-5t1FtWb94aG2awgq4MvdgMZD/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/bhautik-chothani-1175b720b/",
   twitter: "",
   insta: "https://www.instagram.com/bhautik_patel6/",
@@ -152,7 +151,7 @@ export const projects = [
     description:
       "A chatbot project created in Python, utilizing the LLaMA 3 model, leverages a large language model to engage users in natural, human-like conversations. The FastAPI framework and Tortoise ORM manage the backend, providing a robust, scalable solution for real-time interaction and data handling. This setup ensures efficient, responsive, and intelligent chatbot performance.",
     image:
-      "https://private-user-images.githubusercontent.com/92966944/346330062-44523ef6-28c2-4770-9aa8-c477d3fe1d37.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA1NDgwMzgsIm5iZiI6MTcyMDU0NzczOCwicGF0aCI6Ii85Mjk2Njk0NC8zNDYzMzAwNjItNDQ1MjNlZjYtMjhjMi00NzcwLTlhYTgtYzQ3N2QzZmUxZDM3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzA5VDE3NTUzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkzYjI3MTJhOTFiYmRjOWRiZjI3NDE3MjZhODNlNzg4NDRlZGU2ZGNlOWY0NTY0NTY4NzQ1YTk5MWY0M2UxNzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.VKkxl1C2eONp0djilzIawpF7_det9FCHQFB2z239TRg",
+      "https://drive.google.com/file/d/1yukrMeNBnBeSoASlzw62gagFw288EFxa/view?usp=drive_link",
     tags: ["Python", "Django", "Docker", "Postgresql"],
     category: "web app",
     github: "",
