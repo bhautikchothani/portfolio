@@ -8,7 +8,7 @@ export const Bio = {
     "I am a dynamic full-stack web developer based in Ahmedabad, Gujarat. Currently, I mentor college graduates, empowering them with skills in MySql, Flask, FastAPI, and python.I possess expertise in python technologie like RESTful Web Services and FASTAPI",
   github: "https://github.com/bhautikchothani",
   resume:
-    "https://drive.google.com/file/d/1KH0FU2p-5t1FtWb94aG2awgq4MvdgMZD/view?usp=drive_link",
+    "https://drive.google.com/file/d/189Qvxo0E7r9Fm9W4Ohe_oH1Bu847FkFF/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/bhautik-chothani-1175b720b/",
   twitter: "",
   insta: "https://www.instagram.com/bhautik_patel6/",
