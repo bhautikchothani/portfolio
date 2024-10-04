@@ -52,10 +52,6 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
       },
-      {
-        name: "PostgreSql",
-        image: "https://www.postgresql.org/media/img/about/press/elephant.png",
-      },
     ],
   },
   {
