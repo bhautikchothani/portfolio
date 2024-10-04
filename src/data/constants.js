@@ -80,7 +80,7 @@ export const experiences = [
   {
     id: 0,
     img: "https://raw.githubusercontent.com/shi-vam7902/imaages/main/download.png",
-    role: "Full Stack Web Intern [TL]",
+    role: "Full Stack Web Intern",
     company: "Xcelcode Skill Up Serve",
     date: "January 2024 - Present",
     desc: "",
@@ -103,9 +103,9 @@ export const education = [
     id: 0,
     img: "https://silveroakuni.ac.in/upload/images/250x70.webp",
     school: "Silver Oak University",
-    date: "June 2022 - Current",
-    grade: "CPI-8.22",
-    desc: "Currently pursuing M.C.A in Information Technology at Silver Oak University. Skilled in FullStack and REST-API development. Experienced in project management and deployment on Vercel. Passionate about enhancing digital solutions in healthcare and e-commerce sectors.",
+    date: "June 2022 - 2024",
+    grade: "CPI-8.67",
+    desc: "I Compelted M.C.A in Information Technology at Silver Oak University. Skilled in FullStack and REST-API development. Experienced in project management and deployment on Vercel. Passionate about enhancing digital solutions in healthcare and e-commerce sectors.",
     degree: "MCA",
   },
   {
